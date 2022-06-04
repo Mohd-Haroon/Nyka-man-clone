@@ -49,9 +49,15 @@ We focused on the functionality that we were able to build.
 
 Problem faced during construct week
 As this was the second big project we were building, we faced fewer problems like using new components, adjusting to using Github, etc., but we all managed to use them correctly in a short time. We had some minor issues while merging the codes, but we could fix those with proper communication and guidance from our instructor.
+
+
 Here’s a link to the GitHub page if you want to visit:-
 https://github.com/Mohd-Haroon/Nyka-man-clone
+
+
 Here you can check our website live:-
 https://remarkable-klepon-8f9936.netlify.app/
+
+
 Here you can also visit blog of our website:-
 https://medium.com/@qureshiharoon010203/masai-unit-3-construct-week-project-b4f53b8667d5
