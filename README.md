@@ -1,4 +1,6 @@
 # Nyka-man-clone
+![image](https://user-images.githubusercontent.com/99546040/171988888-45de5140-5957-415c-a6ea-12f2e7d4c3ba.png)
+
 <p>Masai Unit-3 Construct Week Project Inspired by NykaaMan</p>
 <p>I will be detailing you our journey of cloning the NykaaMan website as our unit 3 Construct Week Project at Masai School. We were a team of 5 members Affan Ahmad, Chiranjit Behera, Dhiraj Dubey, Aspathri Ghouse, and Mohd Haroon Qureshi.
 The week was too long but went very fast, we were able to clone most of the functionalities and features permitted by time and our technical know-how. Alongside team members, we learned lots of tricks, shortcuts, and new techniques. After completing the project we felt a lot of peace as we were able to do it as a team within stipulated time.</p>
